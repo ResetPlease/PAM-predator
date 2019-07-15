@@ -19,7 +19,8 @@ def main():
             unzip()
             print("Complete!\n")
         else:
-            print("The program can not continue to work without this module.\nShut down ...")
+            print("""The program can not continue to work without this module.
+                  \nShut down ...""")
             exit()
     crispr_filename = input("Spacer: ")
     check_exit(crispr_filename)
@@ -63,4 +64,3 @@ def main():
     input("Enter...")
 
 main()
-
