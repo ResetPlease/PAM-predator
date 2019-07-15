@@ -165,3 +165,4 @@ def read_output(filename):
 #        print("RIGHT: ",right)
         file.close()
         return l_r_sequence
+
