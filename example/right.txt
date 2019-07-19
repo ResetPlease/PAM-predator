@@ -1,6 +1,0 @@
-ctaaatttgtttagcaggtaaaccg
-A20(work_file)
-ctccattcaacattgccaatggtaa
-MGAS315(work_file)
-ctcattagcatattagctctttttt
-MGAS315(work_file)
